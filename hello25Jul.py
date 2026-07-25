@@ -1,0 +1,1 @@
+print("i need help but no one help in this stupid world")
